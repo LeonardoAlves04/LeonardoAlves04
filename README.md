@@ -1,7 +1,7 @@
 Oi! Eu me chamo Leonardo Alves. Seja bem vindo(a) ao meu perfil do github, onde compartilho meus códigos e minha jornada dev.
 
 Um pouco sobre mim:
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 📚 Cursando Análise e Desenvolvimento de Sistemas (2º período)
 - 🌱 Estudando JavaScript
 - 🔍 Contate-me no email: leonardoalves201510@gmail.com
 
