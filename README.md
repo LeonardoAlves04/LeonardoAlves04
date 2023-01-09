@@ -1,4 +1,4 @@
-Oi! Eu me chamo Leonardo Alves. Seja bem vindo(a) ao meu perfil do github, onde compartilho meus códigos e minha jornada dev.
+Oi! Eu me chamo Leonardo. Seja bem vindo(a) ao meu perfil do github, onde compartilho meus códigos e minha jornada dev.
 
 Um pouco sobre mim:
 - 📚 Cursando Análise e Desenvolvimento de Sistemas (2º período)
