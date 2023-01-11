@@ -6,10 +6,10 @@ Um pouco sobre mim:
 - 🔍 Contate-me no email: leonardoalves201510@gmail.com
 
 
-<div align="center">
+<div display="flex" align="center">
   <div align="center">
 <a href="https://github.com/LeonardoAlves04">
-  <img display="flex"height="180em" widht="100em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAlves04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" widht="100em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAlves04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" widht="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlves04&layout=compact&langs_count=16&theme=dracula"/>
   
 </div>
