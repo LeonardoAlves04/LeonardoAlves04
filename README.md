@@ -9,7 +9,7 @@ Um pouco sobre mim:
 <div align="center">
   <div align="center">
 <a href="https://github.com/leonardoalves04">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leonardoalves04&show_icons=true&theme=synthwave&include_all_commits=true&count_private= true%22/"/>
+  ![GitHub Stats] (https://github-readme-stats.vercel.app/api?username=LeonardoAlves04&theme=radical)
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalves04&layout=compact&langs_count=7&theme=synthwave"/>
 </div><br>
     
