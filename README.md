@@ -6,7 +6,7 @@ Um pouco sobre mim:
 - 🔍 Contate-me no email: leonardoalves201510@gmail.com
 
 
-<div>
+<div align="center">
   <div align="center">
 <a href="https://github.com/LeonardoAlves04">
   <img height="160em" widht="100em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAlves04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
