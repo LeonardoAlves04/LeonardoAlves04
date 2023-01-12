@@ -8,8 +8,8 @@ Um pouco sobre mim:
 
 <div align="center">
   <div align="center">
-<a href="https://github.com/LeonardoAlves04">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAlves04&show_icons=true&theme=synthwave&include_all_commits=true&count_private= true%22/"/>
+<a href="https://github.com/leonardoalves04">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leonardoalves04&show_icons=true&theme=synthwave&include_all_commits=true&count_private= true%22/"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlves04&layout=compact&langs_count=16&theme=dracula"/>
  
 </div><br>
