@@ -1,7 +1,7 @@
 Oi! Eu me chamo Leonardo. Seja bem vindo(a) ao meu perfil do github, onde compartilho meus códigos e minha jornada dev.
 
 Um pouco sobre mim:
-- 📚 Cursando Análise e Desenvolvimento de Sistemas (2º período)
+- 📚 Cursando Análise e Desenvolvimento de Sistemas (3º período)
 - 🌱 Estudando React/Typescript 
 - 🔍 Contate-me no email: leonardoalves201510@gmail.com
 
