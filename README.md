@@ -2,7 +2,7 @@ Oi! Eu me chamo Leonardo. Seja bem vindo(a) ao meu perfil do github, onde compar
 
 Um pouco sobre mim:
 - 📚 Cursando Análise e Desenvolvimento de Sistemas (4º período)
-- 🌱 Estudando React/Typescript 
+- 🌱 Estudando ReactJS/Typescript/NextJS
 - 🔍 Contate-me no email: leonardoalves201510@gmail.com
 
 
