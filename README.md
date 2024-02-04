@@ -1,4 +1,4 @@
-<h1 align="center">Salveee 👋 sou o Leo. Seja bem vindo(a) ao meu perfil do github, onde compartilho meus códigos e minhas gambiarras dev.</h1>. 
+<p align="center">Salveee 👋 sou o Leo. Seja bem vindo(a) ao meu perfil do github, onde compartilho meus códigos e minhas gambiarras dev.</p>. 
 
 Um pouco sobre mim:
 - 📚 Formado em Análise e Desenvolvimento de Sistemas 
