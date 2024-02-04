@@ -1,10 +1,10 @@
-<p align="center">Salveee 👋 sou o Leo. Seja bem vindo(a) ao meu perfil do github, onde compartilho meus códigos e minhas gambiarras dev.</p>
+<p>Salveee 👋 sou o Leo. Seja bem vindo(a) ao meu perfil do github, onde compartilho meus códigos e minhas gambiarras dev.</p>
 
-<p align="center">Um pouco sobre mim:
+
 - 📚 Formado em Análise e Desenvolvimento de Sistemas 
 - 🌱 Estudando ReactJS/Typescript/NextJS
 - 🔍 Contate-me no email: leonardoalves201510@gmail.com
-</p>
+
 
 
 <div align="center">
