@@ -3,7 +3,7 @@
 
 - 📚 Formado em Análise e Desenvolvimento de Sistemas 
 - 🌱 Estudando ReactJS/Typescript/NextJS
-- 🔍 Contate-me no email: leonardoalves201510@gmail.com
+- 🔍 Entre em contato: leonardoalves201510@gmail.com
 
 
 
