@@ -1,4 +1,4 @@
-Oi! Eu me chamo Leonardo. Seja bem vindo(a) ao meu perfil do github, onde compartilho meus códigos e minha jornada dev.
+<h1 align="center">Salveee 👋 sou o Leo. Seja bem vindo(a) ao meu perfil do github, onde compartilho meus códigos e minhas gambiarras dev.</h1>. 
 
 Um pouco sobre mim:
 - 📚 Formado em Análise e Desenvolvimento de Sistemas 
