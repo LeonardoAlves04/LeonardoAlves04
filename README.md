@@ -1,8 +1,8 @@
-<p>Salveee 👋 eu sou o Leo. Seja bem vindo(a) ao meu perfil do github, onde compartilho meus códigos e minhas gambiarras dev.</p>
+<p>Salveee 👋 eu sou o Leo. Seja bem vindo(a) ao meu perfil do github, onde compartilho meus códigos e meus projetos atuais.</p>
 
 
 - 📚 Formado em Análise e Desenvolvimento de Sistemas 
-- 🌱 Estudando ReactJS/Typescript/NextJS
+- 🌱 Estudando Appium/Selenium
 - 🔍 Entre em contato: leonardoalves201510@gmail.com
 
 
