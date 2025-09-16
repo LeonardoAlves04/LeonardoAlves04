@@ -1,4 +1,4 @@
-<p>Salveee 👋 eu sou o Leo. Seja bem vindo(a) ao meu perfil do github, onde compartilho meus códigos e meus projetos atuais.</p>
+<p>Olá👋 eu sou o Leo. Seja bem vindo(a) ao meu perfil do github, onde compartilho meus códigos e meus projetos atuais.</p>
 
 
 - 📚 Formado em Análise e Desenvolvimento de Sistemas 
