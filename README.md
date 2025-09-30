@@ -9,7 +9,7 @@
 
 <div align="center">
   <div align="center">
-[![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoAlves&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoAlves04&show_icons=true&theme=radical)](https://github.com/LeonardoAlves04/github-readme-stats)
 
 
 </div><br>
