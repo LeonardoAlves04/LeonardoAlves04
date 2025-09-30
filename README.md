@@ -9,9 +9,8 @@
 
 <div align="center">
   <div align="center">
-[![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoAlves04&show_icons=true&theme=radical)](https://github.com/LeonardoAlves04/github-readme-stats)
-
-
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAlves04&show_icons=true&theme=transparent&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlves04&layout=compact&langs_count=7&theme=transparent"/>
 </div><br>
     
 
