@@ -10,7 +10,6 @@
 <div align="center">
   <div align="center">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlves04)](https://github.com/LeonardoAlves04/github-readme-stats)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlves04a&layout=pie)](https://github.com/LeonardoAlves04/github-readme-stats)
 </div><br>
     
 
