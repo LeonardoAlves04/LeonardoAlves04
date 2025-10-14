@@ -2,7 +2,7 @@
 
 
 - 📚 Formado em Análise e Desenvolvimento de Sistemas 
-- 🌱 Estudando Appium/Selenium
+- 🌱 Atualmente estudando desenvolvimento Front-end: NextJS e Back-end: Nodejs
 - 🔍 Entre em contato: leonardoalves201510@gmail.com
 
 
