@@ -2,7 +2,7 @@
 
 
 - 📚 Formado em Análise e Desenvolvimento de Sistemas 
-- 🌱 Atualmente estudando desenvolvimento Front-end: NextJS e Back-end: Nodejs
+- 🌱 Atualmente estudando Desenvolvimento Fullstack/Docker/Kubernetes
 - 🔍 Entre em contato: leonardoalves201510@gmail.com
 
 
