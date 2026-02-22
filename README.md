@@ -4,6 +4,7 @@
 - 📚 Formado em Análise e Desenvolvimento de Sistemas 
 - 🌱 Atualmente estudando testes manuais e automatizados (QA) e Desenvolvimento Fullstack
 - 🔍 Entre em contato: leonardoalves201510@gmail.com
+
     
 <p align="center">
   <a href="https://skillicons.dev">
@@ -11,5 +12,7 @@
   </a>
 </p>
 
-<a href = "mailto:leonardoalves201510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<p align="center">
+  <a href = "mailto:leonardoalves201510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leonardoalvesalmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
