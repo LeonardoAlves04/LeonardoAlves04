@@ -2,7 +2,7 @@
 
 
 - 📚 Formado em Análise e Desenvolvimento de Sistemas 
-- 🌱 Atualmente estudando testes automatizados (QA - Quality Assurance) e Desenvolvimento Fullstack
+- 🌱 Atualmente estudando testes automatizados (QA - Quality Assurance).
 - 🔍 Entre em contato: leonardoalves201510@gmail.com
 
     
