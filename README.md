@@ -1,7 +1,8 @@
 <p>Olá👋 eu sou o Leo. Seja bem vindo(a) ao meu perfil do github, onde compartilho meus códigos e meus projetos atuais.</p>
 
 
-- 📚 Formado em Análise e Desenvolvimento de Sistemas 
+- 📚 Formado em Análise e Desenvolvimento de Sistemas - UNOPAR
+- 📚 Pós graduando em Engenharia de testes e qualidade de software - PUC Minas 
 - 🌱 Atualmente estudando testes automatizados (QA - Quality Assurance).
 - 🔍 Entre em contato: leonardoalves201510@gmail.com
 
