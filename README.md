@@ -20,7 +20,7 @@ Automatizo os cenários de maior risco e repetição para dar mais segurança a 
 
 **Automação de testes**
 
-<img src="https://skillicons.dev/icons?i=playwright,cypress,selenium,ts,js,nodejs" />
+<img src="https://skillicons.dev/icons?i=playwright,cypress,ts,js,nodejs" />
 
 **API, dados e ferramentas**
 
