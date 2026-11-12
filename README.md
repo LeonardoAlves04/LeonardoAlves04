@@ -29,8 +29,6 @@ Aberto a oportunidades como **QA Engineer / Analista de Testes**. <p>
 <a href="https://www.linkedin.com/in/leonardoalvesalmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
-[LinkedIn](https://www.linkedin.com/in/leonardoalvesalmeida/) • [E-mail](mailto:leonardoalves201510@gmail.com)
-
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,ts,tailwind,mysql,cypress,selenium,postman,docker,kubernetes,linux," />
