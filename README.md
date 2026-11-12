@@ -3,11 +3,18 @@
 QA Engineer com foco em **sistemas financeiros e contábeis**: valido fluxos críticos como pagamentos, estornos, conciliação bancária e lançamentos contábeis, da interface até a API e o banco de dados.
 
 ### 🔍 O que eu faço
-- 🧪 **Testes funcionais, exploratórios e de regressão**, da análise de requisitos à liberação
-- 🔌 **Testes de API REST** com Postman, Insomnia e Swagger
-- 🗄️ **Validação de dados** com SQL/PostgreSQL (persistência, integridade e consistência)
-- 🤖 **Automação E2E** com Playwright e Cypress
-- ⚙️ **CI/CD** com Jenkins e GitHub Actions
+-  **Testes funcionais, exploratórios e de regressão**, da análise de requisitos à liberação
+-  **Testes de API REST** com Postman, Insomnia e Swagger
+-  **Validação de dados** com SQL/PostgreSQL (persistência, integridade e consistência)
+-  **Automação de testes** 
+
+### 🤖 Automação de testes
+Automatizo os cenários de maior risco e repetição para dar mais segurança a cada entrega.
+- **E2E (interface):** Playwright e Cypress, em JavaScript e TypeScript
+- **API:** testes automatizados de API com TypeScript, além de coleções no Postman
+- **Boas práticas:** Page Object Model, dados de teste separados e testes independentes
+- **CI/CD:** execução dos testes em pipelines com GitHub Actions e Jenkins, a cada alteração
+- **Relatórios:** evidências e resultados claros para facilitar a análise de falhas
 
 ### 🎓 Formação
 - Análise e Desenvolvimento de Sistemas, UNOPAR
@@ -18,12 +25,7 @@ Qualidade começa no início da construção do software, e eu gosto de times qu
 
 ### 📫 Vamos conversar
 Aberto a oportunidades como **QA Engineer / Analista de Testes**.
-[LinkedIn](link) • [E-mail](mailto:leonardoalves201510@gmail.com)
-
-- 📚 Formado em Análise e Desenvolvimento de Sistemas - UNOPAR
-- 📚 Pós graduando em Engenharia de testes e qualidade de software - PUC Minas 
-- 🌱 Atualmente atuando como Analista de Qualidade de Software - QA
-- 🔍 Entre em contato: leonardoalves201510@gmail.com
+[LinkedIn]((https://www.linkedin.com/in/leonardoalvesalmeida/)) • [E-mail](mailto:leonardoalves201510@gmail.com)
 
 <p>
   <a href="https://skillicons.dev">
