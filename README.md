@@ -16,19 +16,9 @@ Automatizo os cenários de maior risco e repetição para dar mais segurança a 
 - **CI/CD:** execução dos testes em pipelines com GitHub Actions e Jenkins, a cada alteração
 - **Relatórios:** evidências e resultados claros para facilitar a análise de falhas
 
-### Stack
+### Stack (Automação de testes, API, dados e ferramenta, CI/CD e infraestrutura)
 
-**Automação de testes**
-
-<img src="https://skillicons.dev/icons?i=playwright,cypress,ts,js,nodejs" />
-
-**API, dados e ferramentas**
-
-<img src="https://skillicons.dev/icons?i=postman,postgres,git,github" />
-
-**CI/CD e infraestrutura**
-
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,docker" />
+<img src="https://skillicons.dev/icons?i=playwright,cypress,ts,js,nodejs,postman,postgres,git,github,githubactions,jenkins,docker" />
 
 ###  Formação
 - Análise e Desenvolvimento de Sistemas, UNOPAR
