@@ -24,7 +24,11 @@ Automatizo os cenários de maior risco e repetição para dar mais segurança a 
 Qualidade começa no início da construção do software, e eu gosto de times que pensam do mesmo jeito.
 
 ###  Vamos conversar
-Aberto a oportunidades como **QA Engineer / Analista de Testes**.
+Aberto a oportunidades como **QA Engineer / Analista de Testes**. <p>
+  <a href = "mailto:leonardoalves201510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/leonardoalvesalmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+
 [LinkedIn](https://www.linkedin.com/in/leonardoalvesalmeida/) • [E-mail](mailto:leonardoalves201510@gmail.com)
 
 <p>
@@ -33,7 +37,3 @@ Aberto a oportunidades como **QA Engineer / Analista de Testes**.
   </a>
 </p>
 
-<p>
-  <a href = "mailto:leonardoalves201510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/leonardoalvesalmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
