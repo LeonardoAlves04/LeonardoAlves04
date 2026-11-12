@@ -11,7 +11,7 @@ Entendo que qualidade é algo que deve ser levado em conta desde o início da co
 - 🔍 Entre em contato: leonardoalves201510@gmail.com
 
     
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,ts,tailwind,mysql,cypress,selenium,postman,docker,kubernetes,linux," />
   </a>
