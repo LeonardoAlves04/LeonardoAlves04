@@ -25,7 +25,7 @@ Qualidade começa no início da construção do software, e eu gosto de times qu
 
 ###  Vamos conversar
 Aberto a oportunidades como **QA Engineer / Analista de Testes**.
-[LinkedIn]((https://www.linkedin.com/in/leonardoalvesalmeida/)) • [E-mail](mailto:leonardoalves201510@gmail.com)
+[LinkedIn]([https://www.linkedin.com/in/leonardoalvesalmeida/]) • [E-mail](mailto:leonardoalves201510@gmail.com)
 
 <p>
   <a href="https://skillicons.dev">
