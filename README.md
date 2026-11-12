@@ -1,14 +1,14 @@
-## 👋 Olá, eu sou o Leo
+##  Olá, eu sou o Leo
 
 QA Engineer com foco em **sistemas financeiros e contábeis**: valido fluxos críticos como pagamentos, estornos, conciliação bancária e lançamentos contábeis, da interface até a API e o banco de dados.
 
-### 🔍 O que eu faço
+###  O que eu faço
 -  **Testes funcionais, exploratórios e de regressão**, da análise de requisitos à liberação
 -  **Testes de API REST** com Postman, Insomnia e Swagger
 -  **Validação de dados** com SQL/PostgreSQL (persistência, integridade e consistência)
 -  **Automação de testes** 
 
-### 🤖 Automação de testes
+###  Automação de testes
 Automatizo os cenários de maior risco e repetição para dar mais segurança a cada entrega.
 - **E2E (interface):** Playwright e Cypress, em JavaScript e TypeScript
 - **API:** testes automatizados de API com TypeScript, além de coleções no Postman
@@ -16,14 +16,14 @@ Automatizo os cenários de maior risco e repetição para dar mais segurança a 
 - **CI/CD:** execução dos testes em pipelines com GitHub Actions e Jenkins, a cada alteração
 - **Relatórios:** evidências e resultados claros para facilitar a análise de falhas
 
-### 🎓 Formação
+###  Formação
 - Análise e Desenvolvimento de Sistemas, UNOPAR
 - Pós-graduação em Engenharia de Testes e Qualidade de Software, PUC Minas
 
-### 💬 Penso assim
+###  Penso assim
 Qualidade começa no início da construção do software, e eu gosto de times que pensam do mesmo jeito.
 
-### 📫 Vamos conversar
+###  Vamos conversar
 Aberto a oportunidades como **QA Engineer / Analista de Testes**.
 [LinkedIn]((https://www.linkedin.com/in/leonardoalvesalmeida/)) • [E-mail](mailto:leonardoalves201510@gmail.com)
 
