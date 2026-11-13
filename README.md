@@ -20,7 +20,7 @@ Automatizo os cenários de maior risco e repetição para dar mais segurança a 
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" />
-  <img src="https://skillicons.dev/icons?i=cypress,selenium,ts,js,nodejs" />
+  <img src="https://skillicons.dev/icons?i=cypress,selenium,ts,js,nodejs,postman,postgres,git,github,githubactions,jenkins,docker" />
 </p>
 
 ###  Formação
