@@ -18,7 +18,10 @@ Automatizo os cenários de maior risco e repetição para dar mais segurança a 
 
 ### Stack (Automação de testes, API, dados e ferramenta, CI/CD e infraestrutura)
 
-<img src="https://skillicons.dev/icons?i=playwright,cypress,ts,js,nodejs,postman,postgres,git,github,githubactions,jenkins,docker" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" />
+  <img src="https://skillicons.dev/icons?i=cypress,selenium,ts,js,nodejs" />
+</p>
 
 ###  Formação
 - Análise e Desenvolvimento de Sistemas, UNOPAR
