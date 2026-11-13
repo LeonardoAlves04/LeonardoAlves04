@@ -1,4 +1,4 @@
-## Olá, eu sou o Leo
+## Olá, eu sou o Leo 👋
 
 QA Engineer com foco em **sistemas financeiros e contábeis**: valido fluxos críticos como pagamentos, estornos, conciliação bancária e lançamentos contábeis, da interface até a API e o banco de dados.
 
