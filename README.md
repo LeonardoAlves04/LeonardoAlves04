@@ -23,6 +23,8 @@ Automatizo os cenários de maior risco e repetição para dar mais segurança a 
   <img src="https://skillicons.dev/icons?i=cypress,selenium,ts,js,nodejs,postman,postgres,git,github,githubactions,jenkins,docker" />
 </p>
 
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlves04&layout=compact&theme=tokyonight&hide_border=true)
+
 ###  Formação
 - Análise e Desenvolvimento de Sistemas, UNOPAR
 - Pós-graduação em Engenharia de Testes e Qualidade de Software, PUC Minas
